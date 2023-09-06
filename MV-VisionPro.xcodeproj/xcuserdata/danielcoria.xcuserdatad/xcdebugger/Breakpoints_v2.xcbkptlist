@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7793BA64-0416-4FE5-B068-B21C7C883C3B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C028DFA2-88FD-454A-B1DF-E1719F35915C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MV-Project/Models/Catalog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "fetchComic(character:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C028DFA2-88FD-454A-B1DF-E1719F35915C - 22a878ae94fef5c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MV_Project.StoreCharacter.fetchComic(character: MV_Project.Character) async throws -&gt; ()"
+                  moduleName = "MV-Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielcoria/Documents/Accedo/MV%20Arch/MV-Project/MV-Project/Models/Catalog.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "C028DFA2-88FD-454A-B1DF-E1719F35915C - 22a878ae94fef5c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MV_Project.StoreCharacter.fetchComic(character: MV_Project.Character) async throws -&gt; ()"
+                  moduleName = "MV-Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielcoria/Documents/Accedo/MV%20Arch/MV-Project/MV-Project/Models/Catalog.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7ED04B1-3E2F-4A75-A980-53B5FF382437"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MV-Project/WebViewWindow.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "webView(_:didReceiveServerRedirectForProvisionalNavigation:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E7ED04B1-3E2F-4A75-A980-53B5FF382437 - 5837549d84e1137a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in MV_Project.WebViewWindow.Coodinator.webView(_: __C.WKWebView, didReceiveServerRedirectForProvisionalNavigation: Swift.Optional&lt;__C.WKNavigation&gt;) -&gt; ()"
+                  moduleName = "MV-Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielcoria/Documents/Accedo/MV%20Arch/MV-Project/MV-Project/WebViewWindow.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "E7ED04B1-3E2F-4A75-A980-53B5FF382437 - 5837549d84e1137a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in MV_Project.WebViewWindow.Coodinator.webView(_: __C.WKWebView, didReceiveServerRedirectForProvisionalNavigation: Swift.Optional&lt;__C.WKNavigation&gt;) -&gt; ()"
+                  moduleName = "MV-Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielcoria/Documents/Accedo/MV%20Arch/MV-Project/MV-Project/WebViewWindow.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE5C80B6-B035-413C-8320-768535ECCEF8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MV-Project/WebViewWindow.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "webView(_:didReceiveServerRedirectForProvisionalNavigation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C639AC4-6C26-4AD9-821B-05603A677C0A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MV-Project/WebViewWindow.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "webView(_:decidePolicyFor:decisionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB764161-00D2-4BB1-B886-BB2E0D4A684F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MV-Project/Web/WebViewWindow.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "observeValue(forKeyPath:of:change:context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FB764161-00D2-4BB1-B886-BB2E0D4A684F - 660192b70df08661"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MV_Project.WebViewWindow.Coodinator.observeValue(forKeyPath: Swift.Optional&lt;Swift.String&gt;, of: Swift.Optional&lt;Any&gt;, change: Swift.Optional&lt;Swift.Dictionary&lt;__C.NSKeyValueChangeKey, Any&gt;&gt;, context: Swift.Optional&lt;Swift.UnsafeMutableRawPointer&gt;) -&gt; ()"
+                  moduleName = "MV-Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielcoria/Documents/Accedo/MV%20Arch/MV-Project/MV-Project/Web/WebViewWindow.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "FB764161-00D2-4BB1-B886-BB2E0D4A684F - 660192b70df08640"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MV_Project.WebViewWindow.Coodinator.observeValue(forKeyPath: Swift.Optional&lt;Swift.String&gt;, of: Swift.Optional&lt;Any&gt;, change: Swift.Optional&lt;Swift.Dictionary&lt;__C.NSKeyValueChangeKey, Any&gt;&gt;, context: Swift.Optional&lt;Swift.UnsafeMutableRawPointer&gt;) -&gt; ()"
+                  moduleName = "MV-Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielcoria/Documents/Accedo/MV%20Arch/MV-Project/MV-Project/Web/WebViewWindow.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "752E75B4-EB80-441F-BC2C-DA1B4D1741F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MV-Project/Web/WebViewWindow.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "observeValue(forKeyPath:of:change:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF8737BC-D095-4B64-AFD9-4DFA6353C162"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MV-Project/Web/WebViewWindow.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "observeValue(forKeyPath:of:change:context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF8737BC-D095-4B64-AFD9-4DFA6353C162 - 660192b70df08072"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MV_Project.WebViewWindow.Coodinator.observeValue(forKeyPath: Swift.Optional&lt;Swift.String&gt;, of: Swift.Optional&lt;Any&gt;, change: Swift.Optional&lt;Swift.Dictionary&lt;__C.NSKeyValueChangeKey, Any&gt;&gt;, context: Swift.Optional&lt;Swift.UnsafeMutableRawPointer&gt;) -&gt; ()"
+                  moduleName = "MV-Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielcoria/Documents/Accedo/MV%20Arch/MV-Project/MV-Project/Web/WebViewWindow.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "2816">
+               </Location>
+               <Location
+                  uuid = "EF8737BC-D095-4B64-AFD9-4DFA6353C162 - e070f1d687682784"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in MV_Project.WebViewWindow.Coodinator.observeValue(forKeyPath: Swift.Optional&lt;Swift.String&gt;, of: Swift.Optional&lt;Any&gt;, change: Swift.Optional&lt;Swift.Dictionary&lt;__C.NSKeyValueChangeKey, Any&gt;&gt;, context: Swift.Optional&lt;Swift.UnsafeMutableRawPointer&gt;) -&gt; ()"
+                  moduleName = "MV-Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielcoria/Documents/Accedo/MV%20Arch/MV-Project/MV-Project/Web/WebViewWindow.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "EF8737BC-D095-4B64-AFD9-4DFA6353C162 - c06e916fc3d9db67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MV_Project.WebViewWindow.Coodinator.observeValue(forKeyPath: Swift.Optional&lt;Swift.String&gt;, of: Swift.Optional&lt;Any&gt;, change: Swift.Optional&lt;Swift.Dictionary&lt;__C.NSKeyValueChangeKey, Any&gt;&gt;, context: Swift.Optional&lt;Swift.UnsafeMutableRawPointer&gt;) -&gt; ()"
+                  moduleName = "MV-Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielcoria/Documents/Accedo/MV%20Arch/MV-Project/MV-Project/Web/WebViewWindow.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "EF8737BC-D095-4B64-AFD9-4DFA6353C162 - 660192b70df0831c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MV_Project.WebViewWindow.Coodinator.observeValue(forKeyPath: Swift.Optional&lt;Swift.String&gt;, of: Swift.Optional&lt;Any&gt;, change: Swift.Optional&lt;Swift.Dictionary&lt;__C.NSKeyValueChangeKey, Any&gt;&gt;, context: Swift.Optional&lt;Swift.UnsafeMutableRawPointer&gt;) -&gt; ()"
+                  moduleName = "MV-Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielcoria/Documents/Accedo/MV%20Arch/MV-Project/MV-Project/Web/WebViewWindow.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "2744">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C58D7A3-9C63-4C35-85E9-5F620ABB4525"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MV-Project/Web/ImmersiveView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F3337AF-2B60-47FB-ADCE-900DE6D8D188"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MV-Project/Web/DObject.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "7F3337AF-2B60-47FB-ADCE-900DE6D8D188 - dece5f8394b826e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.TimelineView&lt;SwiftUI.EveryMinuteTimelineSchedule, Swift.Never&gt;.Context) -&gt; _RealityKit_SwiftUI.Model3D&lt;_RealityKit_SwiftUI.Model3DPlaceholderContent&lt;&lt;&lt;opaque return type of SwiftUI.View.rotation3DEffect(_: __C.SPRotation3D, anchor: SwiftUI.UnitPoint3D) -&gt; some&gt;&gt;.0, SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;&gt;&gt; in MV_Project.DObject.body.getter : some"
+                  moduleName = "MV-Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielcoria/Documents/Accedo/MV%20Arch/MV-Project/MV-Project/Web/DObject.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "7F3337AF-2B60-47FB-ADCE-900DE6D8D188 - 57283377a6d89c0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (_RealityKit_SwiftUI.ResolvedModel3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.rotation3DEffect(_: __C.SPRotation3D, anchor: SwiftUI.UnitPoint3D) -&gt; some&gt;&gt;.0 in closure #1 (SwiftUI.TimelineView&lt;SwiftUI.EveryMinuteTimelineSchedule, Swift.Never&gt;.Context) -&gt; _RealityKit_SwiftUI.Model3D&lt;_RealityKit_SwiftUI.Model3DPlaceholderContent&lt;&lt;&lt;opaque return type of SwiftUI.View.rotation3DEffect(_: __C.SPRotation3D, anchor: SwiftUI.UnitPoint3D) -&gt; some&gt;&gt;.0, SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;&gt;&gt; in MV_Project.DObject.body.getter : some"
+                  moduleName = "MV-Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielcoria/Documents/Accedo/MV%20Arch/MV-Project/MV-Project/Web/DObject.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "656">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "653A4DB6-B0BE-441E-B696-2101A28BFF55"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MV-VisionPro/Web/WebViewWindow.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "loadRequest(in:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
